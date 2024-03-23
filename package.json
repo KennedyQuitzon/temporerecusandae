@@ -1,0 +1,36 @@
+{
+  "name": "temporerecusandae",
+  "version": "1.12.0",
+  "author": "PatriciaPfeffer",
+  "description": "Base 32 encodings for JavaScript",
+  "keywords": [
+    "base32",
+    "quo",
+    "qui",
+    "quo",
+    "decoding",
+    "crc"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "browser": "base32.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KennedyQuitzon/temporerecusandae.git"
+  },
+  "dependencies": {
+    "aliquidnobis": "^1.1.0",
+    "consecteturassumenda": "^1.0.0",
+    "fugitest": "^1.0.0",
+    "similiquevoluptas": "^1.0.0"
+  },
+  "devDependencies": {
+    "jsdoc": "*",
+    "karma": "*",
+    "karma-chrome-launcher": "*",
+    "karma-mocha": "*",
+    "karma-webpack": "*",
+    "mocha": "*",
+    "webpack": "*"
+  }
+}
